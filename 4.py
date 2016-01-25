@@ -1,4 +1,7 @@
-def palindrone(product):
+# A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
+# Find the largest palindrome made from the product of two 3-digit numbers.
+
+def palindrone(product): # returns whether passed product is palindrone or not
 	numOfDigits = len(str(product))
 	isPalindrone=False
 
@@ -14,11 +17,11 @@ def palindrone(product):
 
 	return isPalindrone
 
-array = []
+array = [] # blank array to store all palindrones in range
 
 for x in range(100,999):
  	for y in range(100,999):
  		if (palindrone(x*y)):
- 			array.append(x*y)
+ 			array.append(x*y) # add each palindrone to array
 
-print sorted(array)[-1]
+print sorted(array)[-1] # sort array and print last (largest) palindrone
