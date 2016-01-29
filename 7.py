@@ -1,6 +1,8 @@
 # By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
 # What is the 10 001st prime number?
 
+# found that holding all prime numbers in an array vs just using a counter variable instead of holding each prime number in an array had no noticeable speed difference
+
 def findPrimeNumbers(number): # find the 10,001st prime number
 	array=[2,3,5,7,11,13] # contains first 6 prime numbers
 	y=15
