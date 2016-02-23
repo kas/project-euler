@@ -4,7 +4,7 @@ This repository contains all of my solutions to the problems I've solved on Proj
 
 # Realizations
 Problem 7
-Found that holding all prime numbers in an array vs just using a counter variable had no noticeable speed difference.
+* Found that holding all prime numbers in an array vs just using a counter variable had no noticeable speed difference.
 
 Problem 8
-Found that Python can work with huge variables -- there doesn't seem to be a limit as to how big an "int" is in Python
+* Found that Python can work with huge variables -- there doesn't seem to be a limit as to how big an "int" is in Python
