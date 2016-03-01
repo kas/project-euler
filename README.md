@@ -9,3 +9,10 @@ This repository contains all of my solutions to the problems I've solved on Proj
 
 **Problem 008**
 * Found that Python can work with huge variables -- there doesn't seem to be a limit as to how big an "int" is in Python
+
+**Problem 020**
+* Found out how to enable utf-8 character encoding in python file
+
+**Problem 022**
+* Learned file IO with python
+* Learned how to dump objects into JSON files and load objects from JSON files in python
