@@ -83,9 +83,9 @@ for x in range(1,1001):
 
 		thousand(str(x))
 
-	# string+='\n'
+	string+='\n'
 
-# print string
+print string
 
 count = 0 # counter variable, counts how many characters are in string
 
