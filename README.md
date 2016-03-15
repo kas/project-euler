@@ -16,3 +16,6 @@ This repository contains all of my solutions to the problems I've solved on Proj
 **Problem 022**
 * Learned file IO with python
 * Learned how to dump objects into JSON files and load objects from JSON files in python
+
+**Problem 025**
+* Realized python has a limit of 999 calls on a recursive function
