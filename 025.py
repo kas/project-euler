@@ -21,7 +21,7 @@
 
 # What is the index of the first term in the Fibonacci sequence to contain 1000 digits?
 
-# realized python has a limit of 999 calls on a recursive function
+# realized Python has a limit of 999 calls on a recursive function
 
 index = 3
 

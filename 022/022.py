@@ -6,8 +6,8 @@
 
 # What is the total of all the name scores in the file?
 
-# learned how to interact with files in python
-# learned how to dump object into JSON file in python by importing json module
+# learned how to interact with files in Python
+# learned how to dump object into JSON file in Python by importing JSON module
 
 import json
 

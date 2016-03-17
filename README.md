@@ -11,14 +11,14 @@ This repository contains all of my solutions to the problems I've solved on Proj
 * Found that Python can work with huge variables -- there doesn't seem to be a limit as to how big an "int" is in Python
 
 **Problem 020**
-* Found out how to enable utf-8 character encoding in python file
+* Found out how to enable utf-8 character encoding in Python file
 
 **Problem 022**
-* Learned file IO with python
-* Learned how to dump objects into JSON files and load objects from JSON files in python
+* Learned file IO with Python
+* Learned how to dump objects into JSON files and load objects from JSON files in Python
 
 **Problem 025**
-* Realized python has a limit of 999 calls on a recursive function
+* Realized Python has a limit of 999 calls on a recursive function
 
 **Problem 029**
-* Realized python uses sets to create unordered distinct lists, and that you can convert a set back into a list to get the length of it
+* Realized Python uses sets to create unordered distinct lists, and that you can convert a set back into a list to get the length of it

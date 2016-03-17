@@ -7,7 +7,7 @@
 
 # Find the sum of the digits in the number 100!
 
-# found out how to have utf-8 character encoding in python file
+# found out how to have utf-8 character encoding in Python file
 
 num = 100	# number we want to find the sum of the digits of
 factorial = 1	# starting number the we multiply on to find the factorial
