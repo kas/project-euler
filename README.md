@@ -19,3 +19,6 @@ This repository contains all of my solutions to the problems I've solved on Proj
 
 **Problem 025**
 * Realized python has a limit of 999 calls on a recursive function
+
+**Problem 029**
+* Realized python uses sets to create unordered distinct lists, and that you can convert a set back into a list to get the length of it
