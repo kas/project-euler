@@ -22,3 +22,6 @@ This repository contains all of my solutions to the problems I've solved on Proj
 
 **Problem 029**
 * Realized Python uses sets to create unordered distinct lists, and that you can convert a set back into a list to get the length of it
+
+**Problem 036**
+* Realized that my palindrone() and palindroneString() methods (from problem 004) won't work in Python 3
