@@ -25,3 +25,6 @@ This repository contains all of my solutions to the problems I've solved on Proj
 
 **Problem 036**
 * Realized that my palindrone() and palindroneString() methods (from problem 004) won't work in Python 3
+
+**Problem 056**
+* Realized that using math.pow(a,b) returned different results than the correct a**b
